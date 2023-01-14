@@ -12,7 +12,7 @@
     rml:logicalSource [
         rml:source [
             a csvw:Table;
-            csvw:url "test.csv";
+            csvw:url "belgium-addresses.csv";
             csvw:dialect [
                 a csvw:Dialect;
                 csvw:delimiter ";"
